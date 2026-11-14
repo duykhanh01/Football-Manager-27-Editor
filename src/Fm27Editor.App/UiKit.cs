@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Controls.Shapes;
@@ -139,7 +139,7 @@ static class UiKit
 
         headerDock.Children.Add(customTitle ?? new TextBlock
         {
-            Text = title.ToUpperInvariant(),
+            Text = AppLanguage.T(title).ToUpperInvariant(),
             FontSize = 12.5,
             FontWeight = FontWeight.Bold,
             Foreground = Brush("#E2E8F0"),
@@ -240,7 +240,7 @@ static class UiKit
         };
         row.Children.Add(new TextBlock
         {
-            Text = label,
+            Text = AppLanguage.T(label),
             FontSize = 13,
             FontWeight = FontWeight.Bold,
             Foreground = Brush("#A78BFA"),
@@ -493,7 +493,7 @@ static class UiKit
 
             var name = new TextBlock
             {
-                Text = label,
+                Text = AppLanguage.T(label),
                 FontSize = 13,
                 VerticalAlignment = VerticalAlignment.Center,
                 Foreground = Brush("#CBD5E1")
@@ -564,7 +564,7 @@ static class UiKit
                 grid.RowDefinitions.Add(new RowDefinition(GridLength.Auto));
                 var name = new TextBlock
                 {
-                    Text = label,
+                    Text = AppLanguage.T(label),
                     FontSize = 13,
                     FontWeight = bold ? FontWeight.SemiBold : FontWeight.Normal,
                     VerticalAlignment = VerticalAlignment.Center,

@@ -1,4 +1,4 @@
-﻿using Avalonia;
+using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Layout;
 using Avalonia.Media;
@@ -100,7 +100,7 @@ public sealed partial class MainWindow
         {
             var text = new TextBlock
             {
-                Text = label,
+                Text = AppLanguage.T(label),
                 FontSize = 13,
                 Foreground = UiKit.TextSecondary,
                 VerticalAlignment = VerticalAlignment.Center,

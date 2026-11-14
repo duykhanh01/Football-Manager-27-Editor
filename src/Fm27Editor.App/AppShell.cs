@@ -262,7 +262,7 @@ public sealed partial class MainWindow
                 BorderThickness = new Thickness(1),
                 Foreground = Brush("#DCE2EE"),
             };
-            ToolTip.SetTip(b, tip);
+            ToolTip.SetTip(b, AppLanguage.T(tip));
             b.Click += (_, _) => action();
             return b;
         }
@@ -307,7 +307,7 @@ public sealed partial class MainWindow
         searchRow.Children.Add(shortcutPill);
         searchRow.Children.Add(new TextBlock
         {
-            Text = "Universal search: player, club, stadium, award or ID…",
+            Text = AppLanguage.T("Universal search: player, club, stadium, award or ID…"),
             FontSize = 13.5,
             Foreground = Brush("#64748B"),
             VerticalAlignment = VerticalAlignment.Center,
@@ -358,7 +358,7 @@ public sealed partial class MainWindow
         github.Click += (_, _) => OpenUrl("https://github.com/Jackhamerp24/Football-Manager-27-Editor");
         var loadGame = new Button
         {
-            Content = "Load Game",
+            Content = AppLanguage.T("Load Game"),
             FontSize = 13.5,
             Padding = new Thickness(14, 0),
             MinHeight = 28,
@@ -724,7 +724,7 @@ public sealed partial class MainWindow
 
         var button = new Button
         {
-            Content = header,
+            Content = AppLanguage.T(header),
             FontSize = 13,
             Padding = new Thickness(11, 3),
             MinHeight = 25,

@@ -30,7 +30,7 @@ static class SectionHost
         public Section Section { get; } = section;
         bool dirty;
         public bool Dirty { get => dirty; set { if (dirty == value) return; dirty = value; PropertyChanged?.Invoke(this, new System.ComponentModel.PropertyChangedEventArgs(nameof(Label))); } }
-        public string Label => Dirty ? Section.Title + " *" : Section.Title;
+        public string Label => AppLanguage.T(Section.Title) + (Dirty ? " *" : "");
         public event System.ComponentModel.PropertyChangedEventHandler? PropertyChanged;
         public override string ToString() => Label;
     }

@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Input;
@@ -172,6 +172,9 @@ internal abstract class EntityScreen<TRecord, TRow, TDraft> : IEntityScreen
     {
         Host.AddModule(nav.Title, viewRoot, nav);
         ConfigureColumns(ListGrid);
+        foreach (var column in ListGrid.Columns)
+            if (column.Header is string header) column.Header = AppLanguage.T(header);
+        CopyName.Attach<TRow>(ListGrid, row => NameOf(RecordOf(row)), Host.SetStatus);
 
         search.TextChanged += (_, _) => Filter();
         ListGrid.SelectionChanged += (_, _) => Selected = ListGrid.SelectedItem is TRow row ? RecordOf(row) : null;

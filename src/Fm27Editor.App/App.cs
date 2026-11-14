@@ -1,4 +1,4 @@
-﻿using Avalonia;
+using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Controls.Primitives;
@@ -17,6 +17,7 @@ public sealed class App : Application
     public override void Initialize()
     {
         AppTheme.Load();
+        AppLanguage.Load();
         Fm27Editor.Core.Settings.DateSetting.Load();
         Fm27Editor.Core.Settings.CurrencySetting.Load();
         Fm27Editor.Core.Settings.GameCurrency.TryApply();
