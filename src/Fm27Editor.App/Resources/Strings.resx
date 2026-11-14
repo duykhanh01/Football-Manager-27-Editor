@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="Label_Settings" xml:space="preserve"><value>Settings</value></data>
+  <data name="Label_Language" xml:space="preserve"><value>Language</value></data>
+  <data name="Label_Date_format" xml:space="preserve"><value>Date format</value></data>
+  <data name="Label_Currency" xml:space="preserve"><value>Currency</value></data>
+  <data name="Label_Restart_the_application_to_apply_the_language" xml:space="preserve"><value>Restart the application to apply the language.</value></data>
+  <data name="Label_Copy_name" xml:space="preserve"><value>Copy name</value></data>
+  <data name="Label_Name_copied" xml:space="preserve"><value>Name copied</value></data>
+  <data name="Label_Load_Game" xml:space="preserve"><value>Load Game</value></data>
+  <data name="Label_Universal_search_player_club_stadium_award_or_ID" xml:space="preserve"><value>Universal search: player, club, stadium, award or ID…</value></data>
+  <data name="Label_Players" xml:space="preserve"><value>Players</value></data>
+  <data name="Label_Clubs" xml:space="preserve"><value>Clubs</value></data>
+  <data name="Label_Nations" xml:space="preserve"><value>Nations</value></data>
+  <data name="Label_Cities" xml:space="preserve"><value>Cities</value></data>
+  <data name="Label_Stadiums" xml:space="preserve"><value>Stadiums</value></data>
+  <data name="Label_Competitions" xml:space="preserve"><value>Competitions</value></data>
+  <data name="Label_Awards" xml:space="preserve"><value>Awards</value></data>
+  <data name="Label_Referees" xml:space="preserve"><value>Referees</value></data>
+  <data name="Label_Information" xml:space="preserve"><value>Information</value></data>
+  <data name="Label_Positions" xml:space="preserve"><value>Positions</value></data>
+  <data name="Label_Career_Plans" xml:space="preserve"><value>Career Plans</value></data>
+  <data name="Label_Move_to_club" xml:space="preserve"><value>Move to club</value></data>
+  <data name="Label_Swap_Player" xml:space="preserve"><value>Swap Player</value></data>
+  <data name="Label_Work_Permit" xml:space="preserve"><value>Work Permit</value></data>
+  <data name="Label_Promises" xml:space="preserve"><value>Promises</value></data>
+  <data name="Label_Unavailability" xml:space="preserve"><value>Unavailability</value></data>
+  <data name="Label_Future_Transfer" xml:space="preserve"><value>Future Transfer</value></data>
+  <data name="Label_Transfer_Proposals" xml:space="preserve"><value>Transfer Proposals</value></data>
+  <data name="Label_Preferred_Moves" xml:space="preserve"><value>Preferred Moves</value></data>
+  <data name="Label_Relationships" xml:space="preserve"><value>Relationships</value></data>
+  <data name="Label_Languages" xml:space="preserve"><value>Languages</value></data>
+  <data name="Label_Comparison" xml:space="preserve"><value>Comparison</value></data>
+  <data name="Label_Clone_Center" xml:space="preserve"><value>Clone Center</value></data>
+  <data name="Label_Swap_National_Call_Up" xml:space="preserve"><value>Swap National Call Up</value></data>
+  <data name="Label_Current_Ability" xml:space="preserve"><value>Current Ability</value></data>
+  <data name="Label_Potential_Ability" xml:space="preserve"><value>Potential Ability</value></data>
+  <data name="Label_Date_of_Birth" xml:space="preserve"><value>Date of Birth</value></data>
+  <data name="Label_City_Of_Birth" xml:space="preserve"><value>City Of Birth</value></data>
+  <data name="Label_Days_in_Country" xml:space="preserve"><value>Days in Country</value></data>
+  <data name="Label_Planned_Retirement" xml:space="preserve"><value>Planned Retirement</value></data>
+  <data name="Label_Asking_Price" xml:space="preserve"><value>Asking Price</value></data>
+  <data name="Label_Balance" xml:space="preserve"><value>Balance</value></data>
+  <data name="Label_Job" xml:space="preserve"><value>Job</value></data>
+  <data name="Label_Team" xml:space="preserve"><value>Team</value></data>
+  <data name="Label_Return_to_module_list" xml:space="preserve"><value>Return to module list</value></data>
+  <data name="Label_Save_changes_on_current_page_Ctrl_S" xml:space="preserve"><value>Save changes on current page (Ctrl+S)</value></data>
+  <data name="Label_Reload_current_screen_Ctrl_R" xml:space="preserve"><value>Reload current screen (Ctrl+R)</value></data>
+  <data name="Label_Session_edit_history" xml:space="preserve"><value>Session edit history</value></data>
+  <data name="Label_Advanced_Search" xml:space="preserve"><value>Advanced Search</value></data>
+  <data name="Label_Mass_Edit_Ctrl_M" xml:space="preserve"><value>Mass Edit (Ctrl+M)</value></data>
+  <data name="Label_Search" xml:space="preserve"><value>Search</value></data>
+  <data name="Label_Filter" xml:space="preserve"><value>Filter</value></data>
+  <data name="Label_Clear" xml:space="preserve"><value>Clear</value></data>
+  <data name="Label_Apply" xml:space="preserve"><value>Apply</value></data>
+  <data name="Label_Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="Label_Save" xml:space="preserve"><value>Save</value></data>
+  <data name="Label_Save_changes" xml:space="preserve"><value>Save changes</value></data>
+  <data name="Label_Reset" xml:space="preserve"><value>Reset</value></data>
+  <data name="Label_Add" xml:space="preserve"><value>Add</value></data>
+  <data name="Label_Remove" xml:space="preserve"><value>Remove</value></data>
+  <data name="Label_Edit" xml:space="preserve"><value>Edit</value></data>
+  <data name="Label_Name" xml:space="preserve"><value>Name</value></data>
+  <data name="Label_Nation" xml:space="preserve"><value>Nation</value></data>
+  <data name="Label_Club" xml:space="preserve"><value>Club</value></data>
+  <data name="Label_Player" xml:space="preserve"><value>Player</value></data>
+  <data name="Label_Staff" xml:space="preserve"><value>Staff</value></data>
+  <data name="Label_Age" xml:space="preserve"><value>Age</value></data>
+  <data name="Label_Position" xml:space="preserve"><value>Position</value></data>
+  <data name="Label_Status" xml:space="preserve"><value>Status</value></data>
+  <data name="Label_Value" xml:space="preserve"><value>Value</value></data>
+  <data name="Label_Unknown" xml:space="preserve"><value>Unknown</value></data>
+  <data name="Label_Yes" xml:space="preserve"><value>Yes</value></data>
+  <data name="Label_No" xml:space="preserve"><value>No</value></data>
+  <data name="Label_Football" xml:space="preserve"><value>Football</value></data>
+  <data name="Label_Match" xml:space="preserve"><value>Match</value></data>
+  <data name="Label_Fixture" xml:space="preserve"><value>Fixture</value></data>
+  <data name="Label_Competition" xml:space="preserve"><value>Competition</value></data>
+  <data name="Label_League" xml:space="preserve"><value>League</value></data>
+  <data name="Label_Cup" xml:space="preserve"><value>Cup</value></data>
+  <data name="Label_Season" xml:space="preserve"><value>Season</value></data>
+  <data name="Label_Table" xml:space="preserve"><value>Table</value></data>
+  <data name="Label_Standings" xml:space="preserve"><value>Standings</value></data>
+  <data name="Label_Round" xml:space="preserve"><value>Round</value></data>
+  <data name="Label_Group_stage" xml:space="preserve"><value>Group stage</value></data>
+  <data name="Label_Knockout_stage" xml:space="preserve"><value>Knockout stage</value></data>
+  <data name="Label_Aggregate_score" xml:space="preserve"><value>Aggregate score</value></data>
+  <data name="Label_Home" xml:space="preserve"><value>Home</value></data>
+  <data name="Label_Away" xml:space="preserve"><value>Away</value></data>
+  <data name="Label_Home_team" xml:space="preserve"><value>Home team</value></data>
+  <data name="Label_Away_team" xml:space="preserve"><value>Away team</value></data>
+  <data name="Label_Kick_off" xml:space="preserve"><value>Kick-off</value></data>
+  <data name="Label_Full_time" xml:space="preserve"><value>Full-time</value></data>
+  <data name="Label_Half_time" xml:space="preserve"><value>Half-time</value></data>
+  <data name="Label_Extra_time" xml:space="preserve"><value>Extra time</value></data>
+  <data name="Label_Penalty_shootout" xml:space="preserve"><value>Penalty shootout</value></data>
+  <data name="Label_Goal" xml:space="preserve"><value>Goal</value></data>
+  <data name="Label_Own_goal" xml:space="preserve"><value>Own goal</value></data>
+  <data name="Label_Clean_sheet" xml:space="preserve"><value>Clean sheet</value></data>
+  <data name="Label_Assist" xml:space="preserve"><value>Assist</value></data>
+  <data name="Label_Yellow_card" xml:space="preserve"><value>Yellow card</value></data>
+  <data name="Label_Red_card" xml:space="preserve"><value>Red card</value></data>
+  <data name="Label_Offside" xml:space="preserve"><value>Offside</value></data>
+  <data name="Label_Foul" xml:space="preserve"><value>Foul</value></data>
+  <data name="Label_Free_kick" xml:space="preserve"><value>Free kick</value></data>
+  <data name="Label_Penalty" xml:space="preserve"><value>Penalty</value></data>
+  <data name="Label_Corner" xml:space="preserve"><value>Corner</value></data>
+  <data name="Label_Throw_in" xml:space="preserve"><value>Throw-in</value></data>
+  <data name="Label_Header" xml:space="preserve"><value>Header</value></data>
+  <data name="Label_Tackle" xml:space="preserve"><value>Tackle</value></data>
+  <data name="Label_Possession" xml:space="preserve"><value>Possession</value></data>
+  <data name="Label_Shots_on_target" xml:space="preserve"><value>Shots on target</value></data>
+  <data name="Label_Expected_goals" xml:space="preserve"><value>Expected goals</value></data>
+  <data name="Label_xG" xml:space="preserve"><value>xG</value></data>
+  <data name="Label_VAR" xml:space="preserve"><value>VAR</value></data>
+  <data name="Label_Referee" xml:space="preserve"><value>Referee</value></data>
+  <data name="Label_Derby" xml:space="preserve"><value>Derby</value></data>
+  <data name="Label_Squad" xml:space="preserve"><value>Squad</value></data>
+  <data name="Label_Starting_eleven" xml:space="preserve"><value>Starting eleven</value></data>
+  <data name="Label_Substitute" xml:space="preserve"><value>Substitute</value></data>
+  <data name="Label_Captain" xml:space="preserve"><value>Captain</value></data>
+  <data name="Label_Goalkeeper" xml:space="preserve"><value>Goalkeeper</value></data>
+  <data name="Label_Defender" xml:space="preserve"><value>Defender</value></data>
+  <data name="Label_Centre_back" xml:space="preserve"><value>Centre-back</value></data>
+  <data name="Label_Full_back" xml:space="preserve"><value>Full-back</value></data>
+  <data name="Label_Wing_back" xml:space="preserve"><value>Wing-back</value></data>
+  <data name="Label_Defensive_midfielder" xml:space="preserve"><value>Defensive midfielder</value></data>
+  <data name="Label_Central_midfielder" xml:space="preserve"><value>Central midfielder</value></data>
+  <data name="Label_Attacking_midfielder" xml:space="preserve"><value>Attacking midfielder</value></data>
+  <data name="Label_Midfielder" xml:space="preserve"><value>Midfielder</value></data>
+  <data name="Label_Winger" xml:space="preserve"><value>Winger</value></data>
+  <data name="Label_Striker" xml:space="preserve"><value>Striker</value></data>
+  <data name="Label_Centre_forward" xml:space="preserve"><value>Centre-forward</value></data>
+  <data name="Label_Manager" xml:space="preserve"><value>Manager</value></data>
+  <data name="Label_Coach" xml:space="preserve"><value>Coach</value></data>
+  <data name="Label_Scout" xml:space="preserve"><value>Scout</value></data>
+  <data name="Label_Physio" xml:space="preserve"><value>Physio</value></data>
+  <data name="Label_Ability" xml:space="preserve"><value>Ability</value></data>
+  <data name="Label_Current_ability_2" xml:space="preserve"><value>Current ability</value></data>
+  <data name="Label_Potential_ability_2" xml:space="preserve"><value>Potential ability</value></data>
+  <data name="Label_CA" xml:space="preserve"><value>CA</value></data>
+  <data name="Label_PA" xml:space="preserve"><value>PA</value></data>
+  <data name="Label_Attribute" xml:space="preserve"><value>Attribute</value></data>
+  <data name="Label_Technical" xml:space="preserve"><value>Technical</value></data>
+  <data name="Label_Mental" xml:space="preserve"><value>Mental</value></data>
+  <data name="Label_Physical" xml:space="preserve"><value>Physical</value></data>
+  <data name="Label_Fitness" xml:space="preserve"><value>Fitness</value></data>
+  <data name="Label_Condition" xml:space="preserve"><value>Condition</value></data>
+  <data name="Label_Morale" xml:space="preserve"><value>Morale</value></data>
+  <data name="Label_Reputation" xml:space="preserve"><value>Reputation</value></data>
+  <data name="Label_Form" xml:space="preserve"><value>Form</value></data>
+  <data name="Label_Injury" xml:space="preserve"><value>Injury</value></data>
+  <data name="Label_Suspension" xml:space="preserve"><value>Suspension</value></data>
+  <data name="Label_Training" xml:space="preserve"><value>Training</value></data>
+  <data name="Label_Development" xml:space="preserve"><value>Development</value></data>
+  <data name="Label_Youth_intake" xml:space="preserve"><value>Youth intake</value></data>
+  <data name="Label_Academy" xml:space="preserve"><value>Academy</value></data>
+  <data name="Label_Wonderkid" xml:space="preserve"><value>Wonderkid</value></data>
+  <data name="Label_Board" xml:space="preserve"><value>Board</value></data>
+  <data name="Label_Stadium" xml:space="preserve"><value>Stadium</value></data>
+  <data name="Label_Rival" xml:space="preserve"><value>Rival</value></data>
+  <data name="Label_Tactics" xml:space="preserve"><value>Tactics</value></data>
+  <data name="Label_Formation" xml:space="preserve"><value>Formation</value></data>
+  <data name="Label_Mentality" xml:space="preserve"><value>Mentality</value></data>
+  <data name="Label_Pressing" xml:space="preserve"><value>Pressing</value></data>
+  <data name="Label_Counter_attack" xml:space="preserve"><value>Counter-attack</value></data>
+  <data name="Label_High_press" xml:space="preserve"><value>High press</value></data>
+  <data name="Label_Set_piece" xml:space="preserve"><value>Set piece</value></data>
+  <data name="Label_Contract" xml:space="preserve"><value>Contract</value></data>
+  <data name="Label_Wage" xml:space="preserve"><value>Wage</value></data>
+  <data name="Label_Transfer" xml:space="preserve"><value>Transfer</value></data>
+  <data name="Label_Transfer_fee" xml:space="preserve"><value>Transfer fee</value></data>
+  <data name="Label_Transfer_window" xml:space="preserve"><value>Transfer window</value></data>
+  <data name="Label_Loan" xml:space="preserve"><value>Loan</value></data>
+  <data name="Label_Loan_deal" xml:space="preserve"><value>Loan deal</value></data>
+  <data name="Label_Free_agent" xml:space="preserve"><value>Free agent</value></data>
+  <data name="Label_Release_clause" xml:space="preserve"><value>Release clause</value></data>
+  <data name="Label_Buy_back_clause" xml:space="preserve"><value>Buy-back clause</value></data>
+  <data name="Label_Sell_on_clause" xml:space="preserve"><value>Sell-on clause</value></data>
+  <data name="Label_Release" xml:space="preserve"><value>Release</value></data>
+  <data name="Label_Work_permit_2" xml:space="preserve"><value>Work permit</value></data>
+  <data name="Label_Nationality" xml:space="preserve"><value>Nationality</value></data>
+  <data name="Label_International_cap" xml:space="preserve"><value>International cap</value></data>
+</root>

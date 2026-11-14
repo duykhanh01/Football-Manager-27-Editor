@@ -235,6 +235,7 @@ public sealed partial class MainWindow : Window
             status.Text = "";
             if (backend.State.Status == ConnectionStatus.Connected && module is not null && rows.Count == 0) await LoadAsync();
         };
+        CopyName.Attach<PlayerRecord>(grid, player => player.DisplayName, text => status.Text = text);
         grid.SelectionChanged += (_, _) =>
         {
             if (!updating) selected = grid.SelectedItem as PlayerRecord;
@@ -917,7 +918,7 @@ public sealed partial class MainWindow : Window
             };
             var col = new DataGridTextColumn
             {
-                Header = c.Title,
+                Header = AppLanguage.T(c.Title),
                 Binding = c.Title == "Asking Price" ? new Binding(c.Binding) { StringFormat = "N0" } : new Binding(c.Binding),
                 Width = width,
                 MinWidth = c.Title == "Name" ? 135 : 54,
@@ -1293,7 +1294,7 @@ public sealed partial class MainWindow : Window
         var line = new DockPanel { MinHeight = 24, LastChildFill = true };
         var text = new TextBlock
         {
-            Text = label, FontSize = 13, Foreground = Brush("#CBD5E1"),
+            Text = AppLanguage.T(label), FontSize = 13, Foreground = Brush("#CBD5E1"),
             VerticalAlignment = VerticalAlignment.Center, TextWrapping = TextWrapping.NoWrap,
         };
         DockPanel.SetDock(value, Dock.Right);
