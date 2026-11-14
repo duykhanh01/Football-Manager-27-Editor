@@ -2136,4 +2136,5 @@
   <data name="Ui_Sort_Club" xml:space="preserve"><value>Sort: Club</value></data>
   <data name="Ui_Sort_Nationality" xml:space="preserve"><value>Sort: Nationality</value></data>
   <data name="Ui_Sort_League" xml:space="preserve"><value>Sort: League</value></data>
+  <data name="CopyName_Failed" xml:space="preserve"><value>Copy failed</value></data>
 </root>

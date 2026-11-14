@@ -7,6 +7,23 @@ namespace Fm27Editor.App;
 
 internal static class CopyName
 {
+    public static Button CreateButton(string name)
+    {
+        var button = new Button { Content = AppLanguage.Get("Label_Copy_name"), Margin = new Avalonia.Thickness(10, 0, 0, 0) };
+        button.Click += async (_, _) =>
+        {
+            var clipboard = TopLevel.GetTopLevel(button)?.Clipboard;
+            if (clipboard is null) return;
+            try
+            {
+                await clipboard.SetTextAsync(name);
+                button.Content = AppLanguage.Get("Label_Name_copied");
+            }
+            catch (Exception) { button.Content = AppLanguage.Get("CopyName_Failed"); }
+        };
+        return button;
+    }
+
     public static void Attach<T>(DataGrid grid, Func<T, string> name, Action<string> status) where T : class
     {
         async Task CopyAsync()
