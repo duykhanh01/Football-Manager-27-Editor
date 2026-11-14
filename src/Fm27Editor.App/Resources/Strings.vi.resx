@@ -2136,4 +2136,5 @@
   <data name="Ui_Sort_Club" xml:space="preserve"><value>Sắp xếp: CLB</value></data>
   <data name="Ui_Sort_Nationality" xml:space="preserve"><value>Sắp xếp: Quốc tịch</value></data>
   <data name="Ui_Sort_League" xml:space="preserve"><value>Sắp xếp: Giải đấu</value></data>
+  <data name="CopyName_Failed" xml:space="preserve"><value>Sao chép thất bại</value></data>
 </root>

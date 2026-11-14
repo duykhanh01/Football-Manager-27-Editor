@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Controls.Shapes;
@@ -303,6 +303,7 @@ static class UiKit
             textStack.Children.Add(badgeRow);
 
         leftRow.Children.Add(textStack);
+        leftRow.Children.Add(CopyName.CreateButton(title));
         dock.Children.Add(leftRow);
 
         return new Border
