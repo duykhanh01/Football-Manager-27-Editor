@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="Label_Settings" xml:space="preserve"><value>Cài đặt</value></data>
+  <data name="Label_Language" xml:space="preserve"><value>Ngôn ngữ</value></data>
+  <data name="Label_Date_format" xml:space="preserve"><value>Định dạng ngày</value></data>
+  <data name="Label_Currency" xml:space="preserve"><value>Tiền tệ</value></data>
+  <data name="Label_Restart_the_application_to_apply_the_language" xml:space="preserve"><value>Khởi động lại ứng dụng để áp dụng ngôn ngữ.</value></data>
+  <data name="Label_Copy_name" xml:space="preserve"><value>Sao chép tên</value></data>
+  <data name="Label_Name_copied" xml:space="preserve"><value>Đã sao chép tên</value></data>
+  <data name="Label_Load_Game" xml:space="preserve"><value>Tải trò chơi</value></data>
+  <data name="Label_Universal_search_player_club_stadium_award_or_ID" xml:space="preserve"><value>Tìm cầu thủ, câu lạc bộ, sân vận động, giải thưởng hoặc ID…</value></data>
+  <data name="Label_Players" xml:space="preserve"><value>Cầu thủ</value></data>
+  <data name="Label_Clubs" xml:space="preserve"><value>Câu lạc bộ</value></data>
+  <data name="Label_Nations" xml:space="preserve"><value>Quốc gia</value></data>
+  <data name="Label_Cities" xml:space="preserve"><value>Thành phố</value></data>
+  <data name="Label_Stadiums" xml:space="preserve"><value>Sân vận động</value></data>
+  <data name="Label_Competitions" xml:space="preserve"><value>Giải đấu</value></data>
+  <data name="Label_Awards" xml:space="preserve"><value>Giải thưởng</value></data>
+  <data name="Label_Referees" xml:space="preserve"><value>Trọng tài</value></data>
+  <data name="Label_Information" xml:space="preserve"><value>Thông tin</value></data>
+  <data name="Label_Positions" xml:space="preserve"><value>Vị trí</value></data>
+  <data name="Label_Career_Plans" xml:space="preserve"><value>Kế hoạch sự nghiệp</value></data>
+  <data name="Label_Move_to_club" xml:space="preserve"><value>Chuyển đến câu lạc bộ</value></data>
+  <data name="Label_Swap_Player" xml:space="preserve"><value>Hoán đổi cầu thủ</value></data>
+  <data name="Label_Work_Permit" xml:space="preserve"><value>Giấy phép lao động</value></data>
+  <data name="Label_Promises" xml:space="preserve"><value>Lời hứa</value></data>
+  <data name="Label_Unavailability" xml:space="preserve"><value>Vắng mặt</value></data>
+  <data name="Label_Future_Transfer" xml:space="preserve"><value>Chuyển nhượng trong tương lai</value></data>
+  <data name="Label_Transfer_Proposals" xml:space="preserve"><value>Đề nghị chuyển nhượng</value></data>
+  <data name="Label_Preferred_Moves" xml:space="preserve"><value>Thói quen thi đấu</value></data>
+  <data name="Label_Relationships" xml:space="preserve"><value>Mối quan hệ</value></data>
+  <data name="Label_Languages" xml:space="preserve"><value>Ngôn ngữ</value></data>
+  <data name="Label_Comparison" xml:space="preserve"><value>So sánh</value></data>
+  <data name="Label_Clone_Center" xml:space="preserve"><value>Sao chép cầu thủ</value></data>
+  <data name="Label_Swap_National_Call_Up" xml:space="preserve"><value>Hoán đổi triệu tập đội tuyển</value></data>
+  <data name="Label_Current_Ability" xml:space="preserve"><value>Năng lực hiện tại</value></data>
+  <data name="Label_Potential_Ability" xml:space="preserve"><value>Năng lực tiềm năng</value></data>
+  <data name="Label_Date_of_Birth" xml:space="preserve"><value>Ngày sinh</value></data>
+  <data name="Label_City_Of_Birth" xml:space="preserve"><value>Nơi sinh</value></data>
+  <data name="Label_Days_in_Country" xml:space="preserve"><value>Số ngày ở quốc gia</value></data>
+  <data name="Label_Planned_Retirement" xml:space="preserve"><value>Dự định giải nghệ</value></data>
+  <data name="Label_Asking_Price" xml:space="preserve"><value>Giá chào bán</value></data>
+  <data name="Label_Balance" xml:space="preserve"><value>Số dư</value></data>
+  <data name="Label_Job" xml:space="preserve"><value>Công việc</value></data>
+  <data name="Label_Team" xml:space="preserve"><value>Đội bóng</value></data>
+  <data name="Label_Return_to_module_list" xml:space="preserve"><value>Về danh sách mục</value></data>
+  <data name="Label_Save_changes_on_current_page_Ctrl_S" xml:space="preserve"><value>Lưu thay đổi ở trang hiện tại (Ctrl+S)</value></data>
+  <data name="Label_Reload_current_screen_Ctrl_R" xml:space="preserve"><value>Tải lại màn hình hiện tại (Ctrl+R)</value></data>
+  <data name="Label_Session_edit_history" xml:space="preserve"><value>Lịch sử chỉnh sửa phiên này</value></data>
+  <data name="Label_Advanced_Search" xml:space="preserve"><value>Tìm kiếm nâng cao</value></data>
+  <data name="Label_Mass_Edit_Ctrl_M" xml:space="preserve"><value>Chỉnh sửa hàng loạt (Ctrl+M)</value></data>
+  <data name="Label_Search" xml:space="preserve"><value>Tìm kiếm</value></data>
+  <data name="Label_Filter" xml:space="preserve"><value>Lọc</value></data>
+  <data name="Label_Clear" xml:space="preserve"><value>Xóa</value></data>
+  <data name="Label_Apply" xml:space="preserve"><value>Áp dụng</value></data>
+  <data name="Label_Cancel" xml:space="preserve"><value>Hủy</value></data>
+  <data name="Label_Save" xml:space="preserve"><value>Lưu</value></data>
+  <data name="Label_Save_changes" xml:space="preserve"><value>Lưu thay đổi</value></data>
+  <data name="Label_Reset" xml:space="preserve"><value>Đặt lại</value></data>
+  <data name="Label_Add" xml:space="preserve"><value>Thêm</value></data>
+  <data name="Label_Remove" xml:space="preserve"><value>Xóa</value></data>
+  <data name="Label_Edit" xml:space="preserve"><value>Chỉnh sửa</value></data>
+  <data name="Label_Name" xml:space="preserve"><value>Tên</value></data>
+  <data name="Label_Nation" xml:space="preserve"><value>Quốc gia</value></data>
+  <data name="Label_Club" xml:space="preserve"><value>Câu lạc bộ</value></data>
+  <data name="Label_Player" xml:space="preserve"><value>Cầu thủ</value></data>
+  <data name="Label_Staff" xml:space="preserve"><value>Nhân sự</value></data>
+  <data name="Label_Age" xml:space="preserve"><value>Tuổi</value></data>
+  <data name="Label_Position" xml:space="preserve"><value>Vị trí</value></data>
+  <data name="Label_Status" xml:space="preserve"><value>Trạng thái</value></data>
+  <data name="Label_Value" xml:space="preserve"><value>Giá trị</value></data>
+  <data name="Label_Unknown" xml:space="preserve"><value>Không rõ</value></data>
+  <data name="Label_Yes" xml:space="preserve"><value>Có</value></data>
+  <data name="Label_No" xml:space="preserve"><value>Không</value></data>
+  <data name="Label_Football" xml:space="preserve"><value>Bóng đá</value></data>
+  <data name="Label_Match" xml:space="preserve"><value>Trận đấu</value></data>
+  <data name="Label_Fixture" xml:space="preserve"><value>Lịch thi đấu</value></data>
+  <data name="Label_Competition" xml:space="preserve"><value>Giải đấu</value></data>
+  <data name="Label_League" xml:space="preserve"><value>Giải vô địch</value></data>
+  <data name="Label_Cup" xml:space="preserve"><value>Cúp</value></data>
+  <data name="Label_Season" xml:space="preserve"><value>Mùa giải</value></data>
+  <data name="Label_Table" xml:space="preserve"><value>Bảng xếp hạng</value></data>
+  <data name="Label_Standings" xml:space="preserve"><value>Bảng xếp hạng</value></data>
+  <data name="Label_Round" xml:space="preserve"><value>Vòng đấu</value></data>
+  <data name="Label_Group_stage" xml:space="preserve"><value>Vòng bảng</value></data>
+  <data name="Label_Knockout_stage" xml:space="preserve"><value>Vòng loại trực tiếp</value></data>
+  <data name="Label_Aggregate_score" xml:space="preserve"><value>Tổng tỷ số</value></data>
+  <data name="Label_Home" xml:space="preserve"><value>Sân nhà</value></data>
+  <data name="Label_Away" xml:space="preserve"><value>Sân khách</value></data>
+  <data name="Label_Home_team" xml:space="preserve"><value>Đội chủ nhà</value></data>
+  <data name="Label_Away_team" xml:space="preserve"><value>Đội khách</value></data>
+  <data name="Label_Kick_off" xml:space="preserve"><value>Giờ bóng lăn</value></data>
+  <data name="Label_Full_time" xml:space="preserve"><value>Hết trận</value></data>
+  <data name="Label_Half_time" xml:space="preserve"><value>Giờ nghỉ</value></data>
+  <data name="Label_Extra_time" xml:space="preserve"><value>Hiệp phụ</value></data>
+  <data name="Label_Penalty_shootout" xml:space="preserve"><value>Loạt sút luân lưu</value></data>
+  <data name="Label_Goal" xml:space="preserve"><value>Bàn thắng</value></data>
+  <data name="Label_Own_goal" xml:space="preserve"><value>Bàn phản lưới nhà</value></data>
+  <data name="Label_Clean_sheet" xml:space="preserve"><value>Giữ sạch lưới</value></data>
+  <data name="Label_Assist" xml:space="preserve"><value>Kiến tạo</value></data>
+  <data name="Label_Yellow_card" xml:space="preserve"><value>Thẻ vàng</value></data>
+  <data name="Label_Red_card" xml:space="preserve"><value>Thẻ đỏ</value></data>
+  <data name="Label_Offside" xml:space="preserve"><value>Việt vị</value></data>
+  <data name="Label_Foul" xml:space="preserve"><value>Phạm lỗi</value></data>
+  <data name="Label_Free_kick" xml:space="preserve"><value>Đá phạt</value></data>
+  <data name="Label_Penalty" xml:space="preserve"><value>Phạt đền</value></data>
+  <data name="Label_Corner" xml:space="preserve"><value>Phạt góc</value></data>
+  <data name="Label_Throw_in" xml:space="preserve"><value>Ném biên</value></data>
+  <data name="Label_Header" xml:space="preserve"><value>Đánh đầu</value></data>
+  <data name="Label_Tackle" xml:space="preserve"><value>Tắc bóng</value></data>
+  <data name="Label_Possession" xml:space="preserve"><value>Kiểm soát bóng</value></data>
+  <data name="Label_Shots_on_target" xml:space="preserve"><value>Cú sút trúng đích</value></data>
+  <data name="Label_Expected_goals" xml:space="preserve"><value>Bàn thắng kỳ vọng</value></data>
+  <data name="Label_xG" xml:space="preserve"><value>xG</value></data>
+  <data name="Label_VAR" xml:space="preserve"><value>VAR</value></data>
+  <data name="Label_Referee" xml:space="preserve"><value>Trọng tài</value></data>
+  <data name="Label_Derby" xml:space="preserve"><value>Trận derby</value></data>
+  <data name="Label_Squad" xml:space="preserve"><value>Đội hình</value></data>
+  <data name="Label_Starting_eleven" xml:space="preserve"><value>Đội hình xuất phát</value></data>
+  <data name="Label_Substitute" xml:space="preserve"><value>Cầu thủ dự bị</value></data>
+  <data name="Label_Captain" xml:space="preserve"><value>Đội trưởng</value></data>
+  <data name="Label_Goalkeeper" xml:space="preserve"><value>Thủ môn</value></data>
+  <data name="Label_Defender" xml:space="preserve"><value>Hậu vệ</value></data>
+  <data name="Label_Centre_back" xml:space="preserve"><value>Trung vệ</value></data>
+  <data name="Label_Full_back" xml:space="preserve"><value>Hậu vệ biên</value></data>
+  <data name="Label_Wing_back" xml:space="preserve"><value>Hậu vệ cánh</value></data>
+  <data name="Label_Defensive_midfielder" xml:space="preserve"><value>Tiền vệ phòng ngự</value></data>
+  <data name="Label_Central_midfielder" xml:space="preserve"><value>Tiền vệ trung tâm</value></data>
+  <data name="Label_Attacking_midfielder" xml:space="preserve"><value>Tiền vệ tấn công</value></data>
+  <data name="Label_Midfielder" xml:space="preserve"><value>Tiền vệ</value></data>
+  <data name="Label_Winger" xml:space="preserve"><value>Tiền vệ cánh</value></data>
+  <data name="Label_Striker" xml:space="preserve"><value>Tiền đạo</value></data>
+  <data name="Label_Centre_forward" xml:space="preserve"><value>Trung phong</value></data>
+  <data name="Label_Manager" xml:space="preserve"><value>Huấn luyện viên trưởng</value></data>
+  <data name="Label_Coach" xml:space="preserve"><value>Huấn luyện viên</value></data>
+  <data name="Label_Scout" xml:space="preserve"><value>Nhân viên tuyển trạch</value></data>
+  <data name="Label_Physio" xml:space="preserve"><value>Chuyên viên vật lý trị liệu</value></data>
+  <data name="Label_Ability" xml:space="preserve"><value>Năng lực</value></data>
+  <data name="Label_Current_ability_2" xml:space="preserve"><value>Năng lực hiện tại</value></data>
+  <data name="Label_Potential_ability_2" xml:space="preserve"><value>Tiềm năng</value></data>
+  <data name="Label_CA" xml:space="preserve"><value>CA</value></data>
+  <data name="Label_PA" xml:space="preserve"><value>PA</value></data>
+  <data name="Label_Attribute" xml:space="preserve"><value>Chỉ số</value></data>
+  <data name="Label_Technical" xml:space="preserve"><value>Kỹ thuật</value></data>
+  <data name="Label_Mental" xml:space="preserve"><value>Tinh thần</value></data>
+  <data name="Label_Physical" xml:space="preserve"><value>Thể chất</value></data>
+  <data name="Label_Fitness" xml:space="preserve"><value>Thể lực</value></data>
+  <data name="Label_Condition" xml:space="preserve"><value>Thể trạng</value></data>
+  <data name="Label_Morale" xml:space="preserve"><value>Tinh thần</value></data>
+  <data name="Label_Reputation" xml:space="preserve"><value>Danh tiếng</value></data>
+  <data name="Label_Form" xml:space="preserve"><value>Phong độ</value></data>
+  <data name="Label_Injury" xml:space="preserve"><value>Chấn thương</value></data>
+  <data name="Label_Suspension" xml:space="preserve"><value>Treo giò</value></data>
+  <data name="Label_Training" xml:space="preserve"><value>Tập luyện</value></data>
+  <data name="Label_Development" xml:space="preserve"><value>Phát triển</value></data>
+  <data name="Label_Youth_intake" xml:space="preserve"><value>Đợt tuyển cầu thủ trẻ</value></data>
+  <data name="Label_Academy" xml:space="preserve"><value>Học viện đào tạo trẻ</value></data>
+  <data name="Label_Wonderkid" xml:space="preserve"><value>Tài năng trẻ triển vọng</value></data>
+  <data name="Label_Board" xml:space="preserve"><value>Ban lãnh đạo</value></data>
+  <data name="Label_Stadium" xml:space="preserve"><value>Sân vận động</value></data>
+  <data name="Label_Rival" xml:space="preserve"><value>Đối thủ</value></data>
+  <data name="Label_Tactics" xml:space="preserve"><value>Chiến thuật</value></data>
+  <data name="Label_Formation" xml:space="preserve"><value>Sơ đồ chiến thuật</value></data>
+  <data name="Label_Mentality" xml:space="preserve"><value>Tư duy chiến thuật</value></data>
+  <data name="Label_Pressing" xml:space="preserve"><value>Gây áp lực</value></data>
+  <data name="Label_Counter_attack" xml:space="preserve"><value>Phản công</value></data>
+  <data name="Label_High_press" xml:space="preserve"><value>Gây áp lực tầm cao</value></data>
+  <data name="Label_Set_piece" xml:space="preserve"><value>Tình huống cố định</value></data>
+  <data name="Label_Contract" xml:space="preserve"><value>Hợp đồng</value></data>
+  <data name="Label_Wage" xml:space="preserve"><value>Mức lương</value></data>
+  <data name="Label_Transfer" xml:space="preserve"><value>Chuyển nhượng</value></data>
+  <data name="Label_Transfer_fee" xml:space="preserve"><value>Phí chuyển nhượng</value></data>
+  <data name="Label_Transfer_window" xml:space="preserve"><value>Kỳ chuyển nhượng</value></data>
+  <data name="Label_Loan" xml:space="preserve"><value>Cho mượn</value></data>
+  <data name="Label_Loan_deal" xml:space="preserve"><value>Thỏa thuận cho mượn</value></data>
+  <data name="Label_Free_agent" xml:space="preserve"><value>Cầu thủ tự do</value></data>
+  <data name="Label_Release_clause" xml:space="preserve"><value>Điều khoản giải phóng hợp đồng</value></data>
+  <data name="Label_Buy_back_clause" xml:space="preserve"><value>Điều khoản mua lại</value></data>
+  <data name="Label_Sell_on_clause" xml:space="preserve"><value>Điều khoản hưởng phần trăm khi bán lại</value></data>
+  <data name="Label_Release" xml:space="preserve"><value>Chấm dứt hợp đồng</value></data>
+  <data name="Label_Work_permit_2" xml:space="preserve"><value>Giấy phép lao động</value></data>
+  <data name="Label_Nationality" xml:space="preserve"><value>Quốc tịch</value></data>
+  <data name="Label_International_cap" xml:space="preserve"><value>Lần khoác áo đội tuyển quốc gia</value></data>
+</root>

@@ -15,12 +15,12 @@ internal static class CopyName
             try
             {
                 await clipboard.SetTextAsync(name(row));
-                status(AppLanguage.T("Name copied"));
+                status(AppLanguage.Get("Label_Name_copied"));
             }
             catch (Exception ex) { status($"Could not copy name: {ex.Message}"); }
         }
 
-        var item = new MenuItem { Header = AppLanguage.T("Copy name") };
+        var item = new MenuItem { Header = AppLanguage.Get("Label_Copy_name") };
         item.Click += async (_, _) => await CopyAsync();
         grid.ContextMenu = new ContextMenu { Items = { item } };
         grid.AddHandler(InputElement.PointerPressedEvent, (_, e) =>

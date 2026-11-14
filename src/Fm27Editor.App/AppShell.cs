@@ -307,7 +307,7 @@ public sealed partial class MainWindow
         searchRow.Children.Add(shortcutPill);
         searchRow.Children.Add(new TextBlock
         {
-            Text = AppLanguage.T("Universal search: player, club, stadium, award or ID…"),
+            Text = AppLanguage.Get("Label_Universal_search_player_club_stadium_award_or_ID"),
             FontSize = 13.5,
             Foreground = Brush("#64748B"),
             VerticalAlignment = VerticalAlignment.Center,
@@ -358,7 +358,7 @@ public sealed partial class MainWindow
         github.Click += (_, _) => OpenUrl("https://github.com/Jackhamerp24/Football-Manager-27-Editor");
         var loadGame = new Button
         {
-            Content = AppLanguage.T("Load Game"),
+            Content = AppLanguage.Get("Label_Load_Game"),
             FontSize = 13.5,
             Padding = new Thickness(14, 0),
             MinHeight = 28,
