@@ -28,6 +28,8 @@ internal static class AppLanguage
     internal static string Get(string key, string? language = null) =>
         Resources.GetString(key, CultureInfo.GetCultureInfo(language ?? Current)) ?? key;
 
+    internal static string PlayerAttribute(string english) => english == "Balance" ? Get("PlayerAttribute_Balance") : T(english);
+
     // Existing shared UI builders still receive English labels. Keep that adapter until each caller has a resource key.
     internal static string T(string english) => LegacyLabels.Keys.TryGetValue(english, out var key) ? Get(key) : english;
 }
