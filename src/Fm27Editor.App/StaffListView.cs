@@ -103,7 +103,7 @@ public sealed partial class MainWindow
         void Run(string action, Action<StaffRecord, DateOnly> operation)
         {
             var chosen = rows.Where(r => !excluded.Contains(r.Staff.Address)).Select(r => r.Staff).ToList();
-            if (chosen.Count == 0) { status.Text = "No staff ticked"; return; }
+            if (chosen.Count == 0) { status.Text = AppLanguage.Get("Ui_No_staff_ticked"); return; }
             DateOnly today;
             try { today = backend.Session.ReadGameDate() ?? throw new InvalidOperationException("The in-game date could not be read"); }
             catch (Exception ex) { status.Text = UserMessage.For(ex); return; }

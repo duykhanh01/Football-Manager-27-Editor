@@ -33,7 +33,7 @@ public sealed class App : Application
         InputElement.KeyDownEvent.AddClassHandler<TextBox>((control, e) =>
         {
             if (e.Handled || e.Key != Key.Enter || e.KeyModifiers != KeyModifiers.None || control.AcceptsReturn) return;
-            if (control.Watermark?.StartsWith("Search", StringComparison.OrdinalIgnoreCase) == true) return;
+            if (control.Watermark?.StartsWith("Search", StringComparison.OrdinalIgnoreCase) == true || control.Watermark?.StartsWith("Tìm", StringComparison.OrdinalIgnoreCase) == true) return;
             TopLevel.GetTopLevel(control)?.FocusManager?.ClearFocus();
             e.Handled = true;
         }, RoutingStrategies.Bubble);
